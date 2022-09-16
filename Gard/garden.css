@@ -1,0 +1,158 @@
+body {
+    
+background-color: wheat;
+width: 700px;    
+
+}
+
+
+.gar {
+display: flex;
+    
+justify-content: space-between;
+    
+align-items: center;
+}
+
+.nav {
+    
+list-style: none;
+    
+display: flex;
+}
+}
+.nav > li {
+    padding: 10px;
+}
+.nav li a {
+
+text-decoration: none;
+
+padding: 5px 10px;
+
+}
+
+.help {
+text-align:left;
+font-weight: bold;
+}
+#e {
+    
+color: lime;
+
+}
+
+#leaf{
+    
+display: inline;
+width: 50px;  
+}
+
+
+#plant1{
+    
+float: right;
+width: 200px;  
+
+}
+
+#btn {
+    
+border: none;
+    
+color: white;
+
+font-weight: bold;    
+background-color: lime;
+    
+border-radius: 4px;
+    
+padding: 5px 10px;   
+
+}
+.step {
+text-align: center;
+}
+#start {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+width: 650px;
+}
+.img{
+
+text-align: center;    
+
+width:35%;
+padding: 20px;
+    
+margin-top: 10px;
+    
+margin-bottom: 10px;
+    
+margin-left: 10px;
+    
+margin-right: 10px;
+}
+.in {
+margin-bottom: 20px;
+font-size: 15px;
+text-align: center;
+}
+
+#l1, #l2, #l3 {
+    
+
+    
+text-align: center;
+font-size: 10px;
+padding: 20px;
+text-wrap: wrap;
+}
+#grow {
+margin-top: 100px;
+margin-left: 225px;
+margin-bottom: 50px;
+}
+#plant2{
+    
+float: left;
+width: 200px;  
+
+}
+
+#watch {
+
+background-color: wheat;
+border: 1px solid lime;
+color: lime;
+
+font-weight: bold;    
+border-radius: 4px;
+    
+padding: 5px 10px;   
+
+
+    
+}
+
+
+.card {
+display: flex;
+background: darkgreen;
+border-radius: 10px;
+color: white;
+margin-top: 100px;
+width: auto;
+height: 200px;
+}
+.photo {
+float: right;
+width: 300px;
+margin-right: 25px;
+margin-bottom: 25px;
+}
+ 
+    
+    
